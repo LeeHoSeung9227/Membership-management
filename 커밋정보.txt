@@ -1,0 +1,17 @@
+프로젝트 구조 정리 및 README 개선
+
+- 백엔드/프론트엔드 폴더 구조 분리
+- MVC 패턴 적용 (routes, controllers, middleware 분리)
+- README.md 개선
+- 프로젝트 구조 문서 추가
+
+커밋 해시: 9ad020c
+날짜: 2026-01-20
+
+GitHub에 푸시하려면:
+git push origin main
+
+또는 인증이 필요하면:
+- GitHub Personal Access Token 사용
+- 또는 SSH 키 설정 후 원격 저장소를 SSH로 변경
+
